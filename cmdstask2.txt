@@ -1,0 +1,14 @@
+    1  pwd
+    2  echo "O teu Nome Completo" > identificacao.txt
+    3  echo "123456" >> identificacao.txt
+    4  git add identificacao.txt
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    6  git push
+    7  mkdir A140666 cd A140666 pwd
+    8  mkdir A140666
+    9  cd A140666
+   10  pwd
+   11  echo "Teste de LI 2026/2027" > README.md
+   12  cd ..
+   13  pwd
+   14  history > cmdstask2.txt
